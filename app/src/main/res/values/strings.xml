@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">kotlinDz1</string>
+    <string name="texting">www</string>
+    <string name="go">go</string>
+    <string name="value">value</string>
+    <string name="go_back">go back</string>
+    <string name="warning" />
+</resources>
